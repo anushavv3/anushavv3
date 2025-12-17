@@ -1,5 +1,6 @@
 # Hi 👋 I'm Anusha
 🎓 IT Graduate | Frontend Developer
+
 💻 Interested in building clean and responsive websites
 
 🎯 Goal: Frontend Developer Job 
