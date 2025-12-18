@@ -29,7 +29,7 @@ Aspiring Frontend Developer seeking an entry-level role to apply my skills, enha
   ## 📫 Contact Me
 - Email: anusha38vv@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/anusha-v-v-93a752252/)
-- GitHub: github.com/anushavv3
+- GitHub: [anusha](https://github.com/anushavv3) 
 
  ## 📊 GitHub Stats 
 ![anushavv3 GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushavv3&show_icons=true&theme=radical)
