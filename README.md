@@ -1,4 +1,4 @@
-# Hi 👋 I'm Anusha
+# Hi 👋 I'm Anusha V V
 
 ## 🎯 About Me
 🎓 IT Graduate | Frontend Developer
