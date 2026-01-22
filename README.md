@@ -3,9 +3,9 @@
 ## 🎯 About Me
 🎓 IT Graduate | Frontend Developer
 
-💻 Passionate about building clean, responsive, and accessible websites 
+💻 Passionate about building clean, responsive, and accessible websites .
 
-🎯  Seeking Frontend Developer role to grow and contribute
+🎯  Seeking Frontend Developer role to grow and contribute.
 
 ## 🛠 Tech Stack
 ### Languages & Frameworks
