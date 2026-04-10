@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anusha V V
 
 ## 🎯 About Me
-🎓 IT Graduate | Frontend Developer
+🎓 IT Graduate | Software Developer
 
 💻 Passionate about building clean, responsive, and accessible websites .
 
