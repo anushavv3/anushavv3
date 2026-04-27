@@ -5,7 +5,7 @@
 
 💻 Passionate about building clean, responsive, and accessible websites .
 
-🎯  Seeking Frontend Developer role to grow and contribute.
+🎯  Seeking software Developer role to grow and contribute.
 
 ## 🛠 Tech Stack
 ### Languages & Frameworks
@@ -24,7 +24,7 @@
 - UI/UX Best Practices
 
 ## 🎯 Career Objective
-Aspiring Frontend Developer seeking an entry-level role to apply my skills, enhance user experiences,and grow in a collaborative development environment. Passionate about creating pixel-perfect, accessible web applications.
+Aspiring software Developer seeking an entry-level role to apply my skills, enhance user experiences,and grow in a collaborative development environment. Passionate about creating pixel-perfect, accessible web applications.
 
   ## 📫 Contact Me
 - Email: anusha38vv@gmail.com
