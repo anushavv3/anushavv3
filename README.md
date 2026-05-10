@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anusha V V
 
 ## 🎯 About Me
-🎓 IT Graduate | Software Developer
+🎓 IT Graduate | Fullsatck developer
 
 💻 Passionate about building clean, responsive, and accessible websites .
 
