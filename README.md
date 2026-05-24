@@ -34,7 +34,7 @@
 
 ![Your GitHub stats](https://github-readme-stats-xi-nine.vercel.app/api?username=anushavv3&show_icons=true)
 
-![Top Languages](https://github-readme-stats-xi-nine.vercel.app/api/top-langs/?username=anushavv3&layout=compact)
+![Top Languages](https://github-readme-stats-git-master.ivy3s-projects.vercel.app/api/top-langs/?username=anushavv3&layout=compact)
 
 ---
 
