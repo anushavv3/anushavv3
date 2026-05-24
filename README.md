@@ -32,9 +32,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anushavv3&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-xi-nine.vercel.app/api?username=anushavv3&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushavv3&layout=compact)
+![Top Languages](https://github-readme-stats-xi-nine.vercel.app/api/top-langs/?username=anushavv3&layout=compact)
 
 ---
 
