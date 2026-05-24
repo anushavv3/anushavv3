@@ -1,38 +1,55 @@
-# Hi 👋 I'm Anusha V V
+# 👋 Hi, I'm [Your Name]
 
-## 🎯 About Me
-🎓 IT Graduate | Fullsatck developer
+**Full-Stack Developer** | BTech IT Graduate 2025
 
-💻 Passionate about building clean, responsive, and accessible websites .
+📍 Kerala, India
+💼 Open to entry-level full-stack developer roles
 
-🎯  Seeking software Developer role to grow and contribute.
+---
 
-## 🛠 Tech Stack
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Tech Stack
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, TypeScript, Tailwind CSS, HTML/CSS |
+| **Backend** | Node.js, Express, Prisma |
+| **Database** | PostgreSQL, MySQL |
+| **Tools** | Git, GitHub, Docker, Postman, Render |
+| **Languages** | JavaScript, TypeScript, Python, SQL |
 
-## 🌱 Currently Learning
-- Advanced JavaScript(ES6+)
-- React.js 
-- UI/UX Best Practices
+---
 
-## 🎯 Career Objective
-Aspiring software Developer seeking an entry-level role to apply my skills, enhance user experiences,and grow in a collaborative development environment. Passionate about creating pixel-perfect, accessible web applications.
+## 📌 Featured Projects
 
-  ## 📫 Contact Me
-- Email: anusha38vv@gmail.com
-- LinkedIn: [Anusha](https://www.linkedin.com/in/anusha-v-v-93a752252/)
-- GitHub: [Anusha](https://github.com/anushavv3) 
+| Project | Live Demo | GitHub | Tech Stack |
+|---------|-----------|--------|------------|
+| Live Code Editor | [Live](link) | [Repo](link) | React, Monaco Editor |
+| Multi-Tenant Saas| [Live](link) | [Repo](link) | React, Node, PostgreSQL |
+| Al knowledge Base | [Live](link) | [Repo](link) | React, Node, Prisma,Open Api |
+| Portfolio | [Live](link) | [Repo](link) | HTML, CSS, JS |
 
- ## 📊 GitHub Stats 
-![anushavv3 GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushavv3&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushavv3&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- **Portfolio:** [your-portfolio-link]
+- **LinkedIn:** [linkedin.com/in/your-profile]
+- **Email:** your.email@gmail.com
+- **Resume:** [Download Resume](link)
+
+---
+
+## 🌱 Currently
+
+- Building production-ready full-stack applications
+- Deepening TypeScript and Prisma knowledge
+- Open to full-stack developer opportunities (June 2026)
   
