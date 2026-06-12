@@ -51,5 +51,5 @@
 
 - Building production-ready full-stack applications
 - Deepening TypeScript and Prisma knowledge
-- Open to full-stack developer opportunities (June 2026)
+- Open to full-stack developer opportunities
   
