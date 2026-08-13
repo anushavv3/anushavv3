@@ -1,56 +1,48 @@
-# 👋 Hi, I'm [ANUSHA V V]
+<h1 align="center">Hi, I'm ANUSHA V V 👋</h1>
+<h3 align="center">Frontend / React Developer | B.Tech IT Graduate </h3>
 
-**Full-Stack Developer** | BTech IT Graduate 2025
-
-📍 Kerala, India
-💼 Open to entry-level full-stack developer roles
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, TypeScript, Tailwind CSS, HTML/CSS |
-| **Backend** | Node.js, Express, Prisma |
-| **Database** | PostgreSQL, MySQL |
-| **Tools** | Git, GitHub, Docker, Postman, Render |
-| **Languages** | JavaScript, TypeScript, Python, SQL |
+<p align="center">
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anusahvv3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:anushavv38@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 🚀 What I'm doing
 
-| Project | Live Demo | GitHub | Tech Stack |
-|---------|-----------|--------|------------|
-| Live Code Editor | [Live](link) | [Repo](link) | React, Monaco Editor |
-| Multi-Tenant Saas| [Live](link) | [Repo](link) | React, Node, PostgreSQL |
-| Al knowledge Base | [Live](link) | [Repo](link) | React, Node, Prisma,Open Api |
-| credora| [Live](link) | [Repo](link) | React, Node, PostgreSQL |
-| Portfolio | [Live](link) | [Repo](link) | HTML, CSS, JS |
+- 🔭 Currently building a caching layer for high-throughput APIs
+- 🌱 Learning Rust for systems-level work
+- 💬 Ask me about Go, Postgres, or distributed systems design
+- ⚡ Fun fact: I once optimized a query from 40s to 200ms
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![Your GitHub stats](https://github-readme-stats-xi-nine.vercel.app/api?username=anushavv3&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-master.ivy3s-projects.vercel.app/api/top-langs/?username=anushavv3&layout=compact)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 📌 Featured Projects
 
-- **Portfolio:** [your-portfolio-link]
-- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/anusha-v-v-93a752252/)]
-- **Email:** anusha38vv@gmail.com
-- **Resume:** [Download Resume](link)
+* **[Live Code Editor](https://github.com/ANUSHA-VV/live-code-editor)**  
+  Interactive browser-based code editor built using React.js and Monaco Editor with real-time state management (`useState`, `useEffect`).
+
+* **[Personal Portfolio Website](https://github.com/ANUSHA-VV/portfolio)**  
+  Responsive personal portfolio showcasing technical projects, skills, education, and contact details built with modern CSS techniques.
+
 
 ---
 
-## 🌱 Currently
-
-- Building production-ready full-stack applications
-- Deepening TypeScript and Prisma knowledge
-- Open to full-stack developer opportunities
-  
+<p align="center"><i> open to entry-level Frontend / React Developer roles!</i></p>
